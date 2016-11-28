@@ -3,7 +3,7 @@
 Game is over, congratulate R7.
 try this, have fun.
 
-<img src="./complex.png" />
+<img src="./complex.jpg" />
 
 [I'm demo](https://lqs469.github.io/EuroCup2016/EuroCup2016.html)
 
